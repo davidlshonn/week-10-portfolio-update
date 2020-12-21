@@ -8,7 +8,7 @@ The motivation of this project is to continually build a portfolio website which
 
 ![WebPage ScreenCapture](./Assets/Portfolio-Capture.png/ "Portfolio Page Capture")
 
-![WebPage ScreenCapture](./Assets/Contact-Capture.jpg/ "Contact Page Capture")
+![WebPage ScreenCapture](./Assets/Contact-Capture.png/ "Contact Page Capture")
 
 ## Link to Live Website
 
