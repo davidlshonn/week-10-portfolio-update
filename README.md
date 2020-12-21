@@ -12,6 +12,4 @@ The motivation of this project is to continually build a portfolio website which
 
 ## Link to Live Website
 
-![Link to website](https://davidlshonn.github.io/week-10-updated-portfolio/ "My Portfolio") 
-
-https://davidlshonn.github.io/week-10-portfolio-update/
+[Link to website](https://davidlshonn.github.io/week-10-updated-portfolio/ "My Portfolio") 
